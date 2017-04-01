@@ -28,3 +28,7 @@ def main():
 	write_file(file_out_name, list_of_lines)
 
 main()
+
+# TO-DO
+# Add ability to enter multiple columns
+# Add ability to choose what the data is seperated by (commas, spaces, anything)
